@@ -1,0 +1,10 @@
+
+h1 { color: red; }
+
+body {
+     background: lightgrey;
+     color: black;
+     font-size: 18pt;
+     font-family: 'Encode Sans Condensed', sans-serif;
+}
+nav li { display: block}
